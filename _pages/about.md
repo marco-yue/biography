@@ -32,26 +32,82 @@ Education
 
 3. PHD Student. of Engineering (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor [Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio))
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Working Experience
+======
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern
 
-**Markdown generator**
+2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor [Zhe Xu](https://sites.google.com/site/zhexuutssjtu/))
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+***
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Publications
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Under review
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. Yang Y.*, Bao W., Mohsen R. and Xu Z., (2020). Real-time and Large-scale Fleet Allocation of Autonomous Taxis: A Case Study in New York Manhattan Island. Under review in Thirty-fifth AAAI Conference on Artificial Intelligence (under the second round review of AAAI 2021). [\[link\]](https://arxiv.org/abs/2009.02762)  [\[code\]](https://github.com/marco-yue/AAAI2021-Repositioning)
+
+2. Tian Q.*, Yang Y., Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
+
+## Peer-reviewed conference
+
+1. Tian Q. , Yang Y., (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
+
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., Yang, Y., ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287)
+
+
+
+## Peer-reviewed Journals
+
+1. Yang Y., Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445)
+
+***
+
+# Awards & Honors
+
+1. Excellent Graduates, University of Science and Technology Beijing, 2016.
+
+2. Top 15 Team in the competition around Asia of Maritime Logistics Hackathon 2017 - Hong Kong
+
+3. Best paper award in the 11th International Workshop on Computational Transportation Science (CTS), Tianjin, China. (2019)
+
+***
+
+# Referee Service
+
+## Conference
+
+1. THE 23RD INTERNATIONAL CONFERENCE OF HONG KONG SOCIETY FOR TRANSPORTATION STUDIES (HKSTS 2018) , December, 2018, Hong kong, PR. China.
+
+2. The World Wide Web Conference 2020 (WWW-2020) , April, 2020, Taipei, Taiwan, PR. China.
+
+3. The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February, 2021.
+
+## Journals
+
+1. Journal of Management Science and Engineering
+
+***
+
+# Hobbies
+
+## League of Legends
+
+I am good at Jungle, Support , AD carry and AP carry, I have four representative picks:
+
+[Heimerdinger, the Revered Inventor](https://na.leagueoflegends.com/en-us/champions/heimerdinger/)
+
+[Miss Fortune, the Bounty Hunter](https://na.leagueoflegends.com/en-us/champions/miss-fortune/)
+
+[Jarvan IV, the Exemplar of Demacia](https://na.leagueoflegends.com/en-us/champions/jarvan-iv/)
+
+[Leona, the Radiant Dawn](https://na.leagueoflegends.com/en-us/champions/leona/)
+
+## Music
+
+My favorite music singer is BOL4 main vocals Ahn Ji-young, looking like an angel when she is singing.
+
+## Football
+
+My favorite football star is Marco Reus,  a German professional footballer and the captain of  Borussia Dortmund. I got to know him when I was thirteen and I was impressed by his talents, skills and handsome looking. In the following years, I was deeply motivated to be a good man like him.
+
