@@ -6,11 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Sydney, Australia"
-title                    : "Yue (Marco) Yang"
+locale                   : "en-US"
+title                    : "Yue Yang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yue (Marco) Yang"
+description              : &description "PHD student,"
+description              : &description "School of Civil Engineering,"
+description              : &description "University of Sydney"
 url                      : https://marco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marco-yue/marco.github.io"
