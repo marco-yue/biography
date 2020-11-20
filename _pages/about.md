@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University. 
 
-A data-driven personal website
+Now I am a PHD student, majored in Transportation Engineering of University of Sydney, and I am under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Intelligent transportation system (Ride-sourcing & Ride-hailing & Ridesharing systems like Uber and Didi chuxing)
 
-Getting started
+2. Dynamic optimization and Stochastic optimization (Order dispatching & Ride matching & Repositioning & Fleet management)
+
+3. Machine learning in transportation (Markov Decision Process & Muti-agent reinforcement learning)
+
+4. Spatio-temporal Data-mining (Trajectory mining)
+
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+1. B.S. of Engineering (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
+
+2. M.S. of Engineering (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor [Qiong Tian](http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm))
+
+3. PHD Student. of Engineering (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor [Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio))
 
 Site-wide configuration
 ------
