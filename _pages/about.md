@@ -12,8 +12,8 @@ I received my B.S. degree (2016) in Logistics engineering and Operation research
 
 Now I am a PHD student, majored in Transportation Engineering of University of Sydney, and I am under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.
 
-Research Interests
-======
+# Research Interests
+
 
 1. Intelligent transportation system (Ride-sourcing & Ride-hailing & Ridesharing systems like Uber and Didi chuxing)
 
@@ -23,8 +23,7 @@ Research Interests
 
 4. Spatio-temporal Data-mining (Trajectory mining)
 
-Education
-======
+# Education
 
 1. B.S. of Engineering (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
 
