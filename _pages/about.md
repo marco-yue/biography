@@ -12,8 +12,6 @@ I received my B.S. degree (2016) in Logistics engineering and Operation research
 
 Now I am a PHD student, majored in Transportation Engineering of University of Sydney, and I am under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.
 
-<font face=Times New Roman>Oh my god</font>
-
 # Research Interests
 
 
