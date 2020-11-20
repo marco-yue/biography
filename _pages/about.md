@@ -33,13 +33,10 @@ Education
 3. PHD Student. of Engineering (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor [Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio))
 
 # Working Experience
-======
 
 1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern
 
 2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor [Zhe Xu](https://sites.google.com/site/zhexuutssjtu/))
-
-***
 
 # Publications
 
@@ -56,12 +53,11 @@ Education
 2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., Yang, Y., ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287)
 
 
-
 ## Peer-reviewed Journals
 
 1. Yang Y., Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445)
 
-***
+
 
 # Awards & Honors
 
@@ -71,7 +67,6 @@ Education
 
 3. Best paper award in the 11th International Workshop on Computational Transportation Science (CTS), Tianjin, China. (2019)
 
-***
 
 # Referee Service
 
@@ -86,8 +81,6 @@ Education
 ## Journals
 
 1. Journal of Management Science and Engineering
-
-***
 
 # Hobbies
 
