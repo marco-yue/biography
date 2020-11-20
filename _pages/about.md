@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University. 
+<font face="Times New Normal">I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University.<br> Now I am a PHD student, majored in Transportation Engineering of University of Sydney, and I am under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.</font>
 
-Now I am a PHD student, majored in Transportation Engineering of University of Sydney, and I am under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.
 
 # Research Interests
 
