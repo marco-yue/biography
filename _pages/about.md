@@ -1,4 +1,12 @@
-# Biography
+---
+permalink: /
+title: "Biography"
+excerpt: "About me"
+author_profile: false
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University.
 
