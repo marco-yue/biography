@@ -65,7 +65,7 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 1. Excellent Graduates, University of Science and Technology Beijing, 2016.
 
-2. Top 15 Team in the competition around Asia of Maritime Logistics Hackathon 2017 - Hong Kong
+2. Top 15 Team in the competition around Asia of Maritime Logistics Hackathon 2017 - Hong Kong. [\[link\]](http://semen.buaa.edu.cn/info/1375/13795.htm)
 
 3. Best paper award in the 11th International Workshop on Computational Transportation Science (CTS), Tianjin, China. (2019)
 
