@@ -76,8 +76,6 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 2. The World Wide Web Conference 2020 (WWW-2020) , April, 2020, Taipei, Taiwan, PR. China.
 
-3. The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February, 2021.
-
 ### Journals
 
 1. Journal of Management Science and Engineering
