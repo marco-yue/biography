@@ -44,9 +44,7 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 ### Under review
 
-1. Yang Y.*, Bao W., Mohsen R. and Xu Z., (2020). Real-time and Large-scale Fleet Allocation of Autonomous Taxis: A Case Study in New York Manhattan Island. Under review in Thirty-fifth AAAI Conference on Artificial Intelligence (under the second round review of AAAI 2021). [\[link\]](https://arxiv.org/abs/2009.02762)  [\[code\]](https://github.com/marco-yue/AAAI2021-Repositioning)
-
-2. Tian Q.*, Yang Y., Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
+1. Tian Q.*, Yang Y., Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
 
 ### Peer-reviewed conference
 
