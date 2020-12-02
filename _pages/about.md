@@ -36,7 +36,7 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 ## Working Experience
 
-1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern
+1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor Fan Ding)
 
 2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor [Zhe Xu](https://sites.google.com/site/zhexuutssjtu/))
 
