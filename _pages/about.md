@@ -50,12 +50,12 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 1. Tian Q. , **Yang Y.**, (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
 
-2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., **Yang, Y.**, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287)[\[pdf\]](https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E)
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., **Yang, Y.**, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287) [\[pdf\]](https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E)
 
 
 ### Peer-reviewed Journals
 
-1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445) [\[pdf\]](https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY)[\[slides\]](https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn)
+1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445) [\[pdf\]](https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY) [\[slides\]](https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn)
 
 
 
