@@ -30,32 +30,32 @@ Now I am a PHD student, majored in Transportation Engineering of University of S
 
 1. B.S. of Engineering (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
 
-2. M.S. of Engineering (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor [Qiong Tian](http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm))
+2. M.S. of Engineering (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor **[Qiong Tian](http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm)**)
 
-3. PHD Student. of Engineering (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor [Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio))
+3. PHD Student. of Engineering (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor **[Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio)**)
 
 ## Working Experience
 
-1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor Fan Ding)
+1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor **Fan Ding**)
 
-2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor [Zhe Xu](https://sites.google.com/site/zhexuutssjtu/))
+2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor **[Zhe Xu](https://sites.google.com/site/zhexuutssjtu/)**)
 
 ## Publications
 
 ### Under review
 
-1. Tian Q.*, Yang Y., Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
+1. Tian Q.*, **Yang Y.**, Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
 
 ### Peer-reviewed conference
 
-1. Tian Q. , Yang Y., (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
+1. Tian Q. , **Yang Y.**, (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
 
-2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., Yang, Y., ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287)
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., **Yang, Y.**, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287)
 
 
 ### Peer-reviewed Journals
 
-1. Yang Y., Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445)
+1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445)
 
 
 
