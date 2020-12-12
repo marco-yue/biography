@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+## About Me
 
 <font size=3>I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University.</font>
 
@@ -23,7 +23,7 @@ redirect_from:
 
 2. Dynamic optimization and Stochastic optimization (Order dispatching & Ride matching & Repositioning & Fleet management)
 
-3. Machine learning in transportation (Markov Decision Process & Muti-agent reinforcement learning)
+3. Machine learning in transportation (Markov Decision Process & Multi-agent reinforcement learning)
 
 4. Spatio-temporal Data-mining (Trajectory mining)
 
