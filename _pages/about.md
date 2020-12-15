@@ -18,14 +18,21 @@ redirect_from:
 
 ## Research Interests
 
-
+<p><font size=3>
 1. Intelligent transportation system (Ride-sourcing & Ride-hailing & Ridesharing systems like Uber and Didi chuxing)
+  </font></p>
 
+<p><font size=3>
 2. Dynamic optimization and Stochastic optimization (Order dispatching & Ride matching & Repositioning & Fleet management)
+   </font></p>
 
+<p><font size=3>
 3. Machine learning in transportation (Markov Decision Process & Multi-agent reinforcement learning)
-
+   </font></p>
+   
+<p><font size=3>
 4. Spatio-temporal Data-mining (Trajectory mining)
+  </font></p>
 
 # Education
 
