@@ -36,17 +36,12 @@ redirect_from:
 
 # Education
 
-<p><font size=3>
+
 1. **B.S. of Engineering** (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
- </font></p>
 
-<p><font size=3>
 2. **M.S. of Engineering** (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor **[Qiong Tian](http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm)**)
-</font></p>
 
-<p><font size=3>
 3. **PHD Student. of Engineering** (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor **[Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio)**)
- </font></p>
 
 ## Working Experience
 
