@@ -51,9 +51,7 @@ redirect_from:
 
 ## Publications
 
-### Under review
 
-1. Tian Q.*, **Yang Y.**, Wen J., Ding F. and He J., (2020). How to Eliminate Detour Behaviors in E-hailing? Real-time Detecting and Time-dependent Pricing. Under review in IEEE Transactions on Intelligent Transportation Systems. [\[link\]](https://arxiv.org/abs/1910.06949)
 
 ### Peer-reviewed conference
 
