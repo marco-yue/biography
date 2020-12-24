@@ -45,7 +45,7 @@ redirect_from:
   </font></p>
 
 <p><font size=3>
-3. <b>PHD Student. of Engineering</b>**PHD Student. of Engineering** (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio">Mohsen Ramezani</a>)
+3. <b>PHD Student. of Engineering</b>PHD Student. of Engineering** (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio">Mohsen Ramezani</a>)
    </font></p>
 
 ## Working Experience
