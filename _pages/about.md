@@ -51,7 +51,7 @@ redirect_from:
 ## Working Experience
 
 <p><font size=3>
-1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor **Fan Ding**)
+1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor Fan Ding)
   </font></p>
 
 <p><font size=3>
