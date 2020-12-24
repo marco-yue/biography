@@ -27,7 +27,7 @@ redirect_from:
    </font></p>
 
 <p><font size=3>
-3. Machine learning in transportation <b>aa</b> (Markov Decision Process & Multi-agent reinforcement learning)
+3. Machine learning in transportation (Markov Decision Process & Multi-agent reinforcement learning)
    </font></p>
    
 <p><font size=3>
@@ -36,18 +36,27 @@ redirect_from:
 
 # Education
 
+<p><font size=3>
+1. <b>B.S. of Engineering</b> (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
+  </font></p>
 
-1. **B.S. of Engineering** (Logistics Engineering and Operation research) , 2016, School of Mechanical Engineering, University of Science and Technology Beijing, Beijing, PR. China.
+<p><font size=3>
+2. <b>M.S. of Engineering</b> (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor <a href="http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm">Qiong Tian</a>)
+  </font></p>
 
-2. **M.S. of Engineering** (Industrial Engineering and Operation research) , 2020, School of Economics and Management, Beihang University, Beijing, PR. China. (Advisor: Professor **[Qiong Tian](http://semen.buaa.edu.cn/Faculty/Behavior_and_Operation_Management/TIAN_Qiong/Profile.htm)**)
-
-3. **PHD Student. of Engineering** (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor **[Mohsen Ramezani](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio)**)
+<p><font size=3>
+3. <b>PHD Student. of Engineering</b>**PHD Student. of Engineering** (Transpoataion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio">Mohsen Ramezani</a>)
+   </font></p>
 
 ## Working Experience
 
+<p><font size=3>
 1. August 2018 – February 2019, Map Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor **Fan Ding**)
+  </font></p>
 
-2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor **[Zhe Xu](https://sites.google.com/site/zhexuutssjtu/)**)
+<p><font size=3>
+2. March 2019 – January 2020, Ridesourcing Department, Didi Chuxing , Machine learning Engineer Intern (Advisor: Doctor <a href="https://sites.google.com/site/zhexuutssjtu/">Zhe Xu</a>)
+  </font></p>
 
 ## Publications
 
