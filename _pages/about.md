@@ -76,7 +76,7 @@ redirect_from:
 ### Peer-reviewed Journals
 
 <p><font size=3>
-1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link]</a><a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[slides]</a><a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[pdf]</a>
+1. <b>Yang Y.</b>, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link]</a><a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[slides]</a><a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[pdf]</a>
   </font></p>
 
 
