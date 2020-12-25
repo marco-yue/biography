@@ -64,37 +64,38 @@ redirect_from:
 
 ### Peer-reviewed conference
 
-1. Tian Q. , **Yang Y.**, (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
-
-2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., **Yang, Y.**, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). [\[link\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380287) [\[pdf\]](https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E)
+<p><font size=3>
+1. Tian Q. , <b>Yang Y.</b>, (2018) Who is More Likely and Where is Easier to be a Passenger in Ridesharing? The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS2018). Hong kong, December, 2018. (Speaker)
+  </font></p>
+  
+<p><font size=3>
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link]</a><a href="https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E">[pdf]</a>
+  </font></p>
 
 
 ### Peer-reviewed Journals
 
-1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press [\[link\]](https://www.sciencedirect.com/science/article/pii/S2096232020300445) [\[pdf\]](https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY) [\[slides\]](https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn)
+<p><font size=3>
+1. **Yang Y.**, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link]</a><a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[slides]</a><a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[pdf]</a>
+  </font></p>
 
 
 
 ## Awards & Honors
 
+<p><font size=3>
 1. Excellent Graduates, University of Science and Technology Beijing, 2016.
+  </font></p>
 
-2. Top 15 Team in the competition around Asia of Maritime Logistics Hackathon 2017 - Hong Kong. [\[link\]](http://semen.buaa.edu.cn/info/1375/13795.htm)
+<p><font size=3>
+2. Top 15 Team in the competition around Asia of Maritime Logistics Hackathon 2017 - Hong Kong.  <a href="http://semen.buaa.edu.cn/info/1375/13795.htm">[Link]</a>
+  </font></p>
 
+<p><font size=3>
 3. Best paper award in the 11th International Workshop on Computational Transportation Science (CTS), Tianjin, China. (2019)
+  </font></p>
 
 
-## Referee Service
-
-### Conference
-
-1. THE 23RD INTERNATIONAL CONFERENCE OF HONG KONG SOCIETY FOR TRANSPORTATION STUDIES (HKSTS 2018) , December, 2018, Hong kong, PR. China.
-
-2. The World Wide Web Conference 2020 (WWW-2020) , April, 2020, Taipei, Taiwan, PR. China.
-
-### Journals
-
-1. Journal of Management Science and Engineering
 
 ## Hobbies
 
