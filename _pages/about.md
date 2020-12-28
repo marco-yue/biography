@@ -45,7 +45,7 @@ redirect_from:
   </font></p>
 
 <p><font size=3>
-3. <b>PHD Student. of Engineering</b> (Transportaion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio">Mohsen Ramezani</a>)
+3. <b>PHD Student. of Engineering</b> (Transportaion Engineering) , Present-2023, School of Civil Engineering, University of Sydney, Sydney, Australia. (Advisor: Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/mohsen-ramezani.html#collapseBio">Mohsen Ramezani</a> and Professor <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/david-levinson.html">David Levinson</a>)
    </font></p>
 
 ## Working Experience
@@ -69,14 +69,14 @@ redirect_from:
   </font></p>
   
 <p><font size=3>
-2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link] </a><a href="https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E">[pdf] </a>
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link]</a> <a href="https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E">[pdf]</a>
   </font></p>
 
 
 ### Peer-reviewed Journals
 
 <p><font size=3>
-1. <b>Yang Y.</b>, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link] </a><a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[pdf] </a><a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[slides]</a>
+1. <b>Yang Y.</b>, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link]</a> <a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[pdf]</a> <a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[slides]</a>
   </font></p>
 
 
