@@ -101,21 +101,18 @@ redirect_from:
 
 ### League of Legends
 
-I am good at Jungle, Support , AD carry and AP carry, I have four representative picks:
-
-[Heimerdinger, the Revered Inventor](https://na.leagueoflegends.com/en-us/champions/heimerdinger/)
-
-[Miss Fortune, the Bounty Hunter](https://na.leagueoflegends.com/en-us/champions/miss-fortune/)
-
-[Jarvan IV, the Exemplar of Demacia](https://na.leagueoflegends.com/en-us/champions/jarvan-iv/)
-
-[Leona, the Radiant Dawn](https://na.leagueoflegends.com/en-us/champions/leona/)
+<p><font size=3>
+I am good at Jungle, Support , AD carry and AP carry, I have four representative picks: <a href="https://na.leagueoflegends.com/en-us/champions/heimerdinger/">[Heimerdinger, the Revered Inventor]</a>, <a href="https://na.leagueoflegends.com/en-us/champions/miss-fortune/">[Miss Fortune, the Bounty Hunter]</a>, <a href="https://na.leagueoflegends.com/en-us/champions/jarvan-iv/">[Jarvan IV, the Exemplar of Demacia]</a>, <a href="https://na.leagueoflegends.com/en-us/champions/leona/">[Leona, the Radiant Dawn]</a>.
+  </font></p>
 
 ### Music
 
+<p><font size=3>
 My favorite music singer is BOL4 main vocals Ahn Ji-young, looking like an angel when she is singing.
+  </font></p>
 
 ### Football
 
+<p><font size=3>
 My favorite football star is Marco Reus,  a German professional footballer and the captain of  Borussia Dortmund. I got to know him when I was thirteen and I was impressed by his talents, skills and handsome looking. In the following years, I was deeply motivated to be a good man like him.
-
+  </font></p>
