@@ -13,7 +13,7 @@ redirect_from:
 <p><font size=3>I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University.</font></p>
 
 
-<p><font size=3>Now I am a PHD student, majored in Transportation Engineering of University of Sydney (USYD) and a member of <a href="https://transportlab.sydney.edu.au/">TransportLab</a> of USYD, and under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.</font></p>
+<p><font size=3>Now I am a PHD student, majored in Transportation Engineering of University of Sydney (USYD) and a member of <a href="https://transportlab.sydney.edu.au/home/research/control/">TransportLab</a> of USYD, and under the supervision by Professor Mohsen Ramezani to do some transportation researches focus on Stochastic Optimization, Reinforcement Learning and Games Theory.</font></p>
 
 
 ## Research Interests
@@ -98,6 +98,12 @@ redirect_from:
 
 
 ## Hobbies
+
+### Relationship
+
+<p><font size=3>
+I am going to be in a relationship with Jing li. I am loving her three thousand.
+  </font></p>
 
 ### League of Legends
 
