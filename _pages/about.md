@@ -73,7 +73,7 @@ redirect_from:
   </font></p>
 
 <p><font size=3>
-3. <b>Yang Y.</b>, Shi Y., Wang, D., ..., Zhang, H., (2021). Improving the Information Disclosure in Mobility-on-Demand Systems. In Proceedings of SIGKDD 2021. <b>Upcoming</b>
+3. <b>Yang Y.</b>, Shi Y., Wang, D., ..., Zhang, H., (2021). Improving the Information Disclosure in Mobility-on-Demand Systems. In Proceedings of SIGKDD 2021 (<b>KDD2021</b>). <b>Upcoming</b>
   </font></p>
 
 ### Peer-reviewed Journals
