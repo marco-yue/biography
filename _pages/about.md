@@ -69,9 +69,12 @@ redirect_from:
   </font></p>
   
 <p><font size=3>
-2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (WWW2020) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link]</a> <a href="https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E">[pdf]</a>
+2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (<b>WWW2020</b>) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link]</a> <a href="https://docs.qq.com/pdf/DUnd5WUdEV1dzQ09E">[pdf]</a>
   </font></p>
 
+<p><font size=3>
+3. <b>Yang Y.</b>, Shi Y., Wang, D., ..., Zhang, H., (2021). Improving the Information Disclosure in Mobility-on-Demand Systems. In Proceedings of SIGKDD 2021. <b>Upcoming</b>
+  </font></p>
 
 ### Peer-reviewed Journals
 
@@ -98,7 +101,7 @@ redirect_from:
 ## Relationship
 
 <p><font size=3>
-I am going to be in a relationship with Jing li. I am loving her three thousands.
+I am being in a relationship with Jing li.
 </font></p>
 
 ## Hobbies
