@@ -81,6 +81,10 @@ redirect_from:
 <p><font size=3>
 1. <b>Yang Y.</b>, Tian Q.* and Wang Y., (2020). Who is more likely to get a ride and where is easier to be picked up in ride-sharing mode? Journal of Management Science and Engineering (JMSE). In Press <a href="https://www.sciencedirect.com/science/article/pii/S2096232020300445">[Link]</a> <a href="https://docs.qq.com/pdf/DUk94QlNpUWdmaWFY">[pdf]</a> <a href="https://docs.qq.com/slide/DUmZ0WGhhU01Ya1Bn">[slides]</a>
   </font></p>
+  
+<p><font size=3>
+2. Ramezani M.*, <b>Yang Y.</b>, Elmasry J., and Tang P., (2021). On characteristics of supply in e-hailing markets: A clustering approach. Transportation Research Part A.  <b>Upcoming</b>
+  </font></p>
 
 
 
