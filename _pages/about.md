@@ -83,7 +83,8 @@ redirect_from:
   </font></p>
   
 <p><font size=3>
-2. Ramezani M.*, <b>Yang Y.</b>, Elmasry J., and Tang P., (2021). On characteristics of supply in e-hailing markets: A clustering approach. Transportation Research Part A.  <b>Upcoming</b>
+2. Ramezani M.*, <b>Yang Y.</b>, Elmasry J., and Tang P., (2021). An empirical study on characteristics of supply in e-hailing markets: A clustering
+approach. Transportation Research Part A.  <b>Upcoming</b>
   </font></p>
 
 
