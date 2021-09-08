@@ -103,11 +103,6 @@ approach. Transportation Research Part A.  <b>Upcoming</b>
 3. Best paper award in the 11th International Workshop on Computational Transportation Science (CTS), Tianjin, China. (2019)
   </font></p>
 
-## Relationship
-
-<p><font size=3>
-I am being in a relationship with Jing li.
-</font></p>
 
 ## Hobbies
 
