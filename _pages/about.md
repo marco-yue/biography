@@ -105,7 +105,8 @@ approach. Transportation Research Part A.  <b>Upcoming</b>
   
 ## Relationship
 
-I am in relationship with Jiaman He.
+I am in relationship with <a href="https://www.linkedin.com/in/jiaman-he-7a5782a3/">Jiaman He</a>.
+
 
 ## Hobbies
 
