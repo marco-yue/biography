@@ -88,7 +88,7 @@ approach. Transportation Letters.  <b>Upcoming</b>
   </font></p>
   
 <p><font size=3>
-3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems <b>Upcoming</b> </font></p>
+3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <b>Upcoming</b> </font></p>
 
 
 
