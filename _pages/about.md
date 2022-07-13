@@ -10,10 +10,10 @@ redirect_from:
 
 ## About Me
 
-<p><font size=3>I received my B.S. degree (2016) in Logistics engineering and Operation research from University of Science and Technology Beijing, and my Master degree (2020) in Industrial engineering and Operation research from Beihang University.</font></p>
+<p><font size=3>I received my B.S. degree (2016) in Logistics engineering and Operation research from the University of Science and Technology Beijing and my Master's degree (2020) in Industrial engineering and Operation research from Beihang University.</font></p>
 
 
-<p><font size=3>Now I am a PHD student, majoring in Transportation Engineering at the University of Sydney (USYD) and a member of <a href="https://transportlab.sydney.edu.au/home/research/control/">TransportLab</a> of USYD, and under the supervision of Professor Mohsen Ramezani to do some transportation research focus on Shared Mobility, Operation Strategy of Ride-sourcing and Reinforcement Learning.</font></p>
+<p><font size=3>Now I am a PhD student, majoring in Transportation Engineering at the University of Sydney (USYD) and a member of <a href="https://transportlab.sydney.edu.au/home/research/control/">TransportLab</a> under the supervision of Mohsen Ramezani.  I focus on transportation research topics like Shared Mobility, Operation Strategy of Ride-sourcing markets and Multi-agent Reinforcement Learning in Transportation.</font></p>
 
 
 ## Research Interests
@@ -130,3 +130,6 @@ My favorite music singer is BOL4 main vocals Ahn Ji-young, looking like an angel
 <p><font size=3>
 My favorite football star is Marco Reus,  a German professional footballer and the captain of  Borussia Dortmund. I got to know him when I was thirteen and I was impressed by his talents, skills and handsome looking. In the following years, I was deeply motivated to be a good man like him.
   </font></p>
+  
+  
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BfY10lI8INr6bTIzWNRuVxNu7Uj70ygJV4PtQ8mwJIk&cl=ffffff&w=a"></script>
