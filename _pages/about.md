@@ -132,4 +132,4 @@ My favorite football star is Marco Reus,  a German professional footballer and t
   </font></p>
   
   
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BfY10lI8INr6bTIzWNRuVxNu7Uj70ygJV4PtQ8mwJIk&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bpck" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=BfY10lI8INr6bTIzWNRuVxNu7Uj70ygJV4PtQ8mwJIk&cl=ffffff"></a>
