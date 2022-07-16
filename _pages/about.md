@@ -84,8 +84,9 @@ redirect_from:
   
 <p><font size=3>
 2. Ramezani M.*, <b>Yang Y.</b>, Elmasry J., and Tang P., (2022). An empirical study on characteristics of supply in e-hailing markets: A clustering
-approach. Transportation Letters.  <b>Upcoming</b>
+approach. Transportation Letters.  <a href="https://www.tandfonline.com/doi/abs/10.1080/19427867.2022.2079869">[Link]</a> 
   </font></p>
+  
   
 <p><font size=3>
 3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <b>Upcoming</b> </font></p>
