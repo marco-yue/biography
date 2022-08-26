@@ -70,6 +70,7 @@ redirect_from:
   
 <p><font size=3>
 2. Xu, Z., Men, C., Li, P., Jin, B., Li, G., <b>Yang, Y.</b>, ... & Qie, X., (2020). When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. In Proceedings of The Web Conference 2020 (<b>WWW2020</b>) (pp. 2220-2229). <a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380287">[Link]</a> 
+  </font></p>
 
 <p><font size=3>
 3. <b>Yang Y.</b>, Shi Y., Wang, D., ..., Zhang, H., (2021). Improving the Information Disclosure in Mobility-on-Demand Systems. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (<b>KDD2021</b>) (pp. 3854-3864). <a href="https://dl.acm.org/doi/10.1145/3447548.3467062">[Link]</a> 
@@ -88,7 +89,8 @@ approach. Transportation Letters.  <a href="https://www.tandfonline.com/doi/abs/
   
   
 <p><font size=3>
-3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <b>Upcoming</b> </font></p>
+3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <b>Upcoming</b> 
+  </font></p>
 
 
 
