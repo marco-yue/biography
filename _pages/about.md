@@ -87,9 +87,12 @@ redirect_from:
 approach. Transportation Letters.  <a href="https://www.tandfonline.com/doi/abs/10.1080/19427867.2022.2079869">[Link]</a> <a href="https://www.youtube.com/watch?v=WPxiGwZCrwY">[Video]</a> 
   </font></p>
   
+<p><font size=3>
+3. <b>Yang Y.</b>, Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <a href="https://ieeexplore.ieee.org/document/9945629">[Link]</a>
+  </font></p>
   
 <p><font size=3>
-3. <b>Yang Y.</b>,Ramezani M.*, (2022). A Learning Method for Real-time Repositioning in E-hailing Services. IEEE Transactions on Intelligent Transportation Systems. <a href="https://ieeexplore.ieee.org/document/9945629">[Link]</a>
+4. <b>Yang Y.</b>, Umboh S. W., M.*, Ramezani M.*, (2023). Freelance drivers have a decline choice: dispatch menus in on-demand mobility services for assortment optimization. Transportation Research Part B: Methodological. 
   </font></p>
 
 
